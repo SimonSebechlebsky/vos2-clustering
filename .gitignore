@@ -3,3 +3,5 @@
 .ipynb_checkpoints/**/*
 
 ./font-images/node_modules
+./font-images/node_modules/*
+./font-images/node_modules/**/*
