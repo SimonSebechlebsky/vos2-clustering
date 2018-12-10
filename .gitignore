@@ -5,3 +5,6 @@
 ./font-images/node_modules
 ./font-images/node_modules/*
 ./font-images/node_modules/**/*
+
+
+.DS_Store
